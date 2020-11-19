@@ -18,14 +18,12 @@ body{
      background-color: lightgrey;
 }
 button{
-     color:white;
+    color:white;
     font-size: 14px;
     border-radius: 5px;
 }
 #lookup{
-    background-color: brown;
-   
-    
+    background-color: limegreen;
 }
 main{
     margin-top: 5%;
@@ -36,7 +34,9 @@ main{
    
 }
 
-
+#citylookup{
+    background-color: limegreen;
+}
   
 table{
     width: 100%;
@@ -49,7 +49,4 @@ table th{
 table tr{
     background-color: #6497b1;
    
-}
-table tr:nth-child(even) {
-  background: #b3cde0;
 }
